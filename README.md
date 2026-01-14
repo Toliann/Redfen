@@ -7,7 +7,7 @@
 
 >DESIGNATION: 30-Redfen
 
->RISK LEVEL: B
+>RISK LEVEL: A
 
 >POPULATION: ?
 
