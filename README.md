@@ -17,7 +17,7 @@
 
 >HISTORY: ?
 
->ROUTING COST: 0
+>ROUTING COST: 130
 
 ## Screenshot
 ![Screenshot_1](https://raw.githubusercontent.com/Toliann/Redfen/refs/heads/main/1/1.png)
